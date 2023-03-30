@@ -57,7 +57,7 @@
 
 <table>
 	<tr>
-		<td><img src="./img/douyin.jpg" width="220"/></td>
+		<td><img src="./img/wx.jpg" width="220"/></td>
 	</tr>
 </table>
 <code>👍👍👍👍👍👍 您的捐助和赞赏，将会是作者更好的维护动力！</code>
