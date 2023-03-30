@@ -60,4 +60,4 @@
 		<td><img src="./img/douyin.jpg" width="220"/></td>
 	</tr>
 </table>
-<code>👍👍👍👍👍👍 您的捐助和赞赏，将会是作者howcode更好的维护动力！</code>
+<code>👍👍👍👍👍👍 您的捐助和赞赏，将会是作者更好的维护动力！</code>
