@@ -5,10 +5,8 @@
 
 [![star](https://gitee.com/lifeixue/weixin-chat/badge/star.svg)](https://gitee.com/lifeixue/weixin-chat)  [![fork](https://gitee.com/lifeixue/weixin-chat/badge/fork.svg)](https://gitee.com/lifeixue/weixin-chat)  [![](https://img.shields.io/badge/微信：-tmall12-red)]()
 
-```shell
-在线微信对话生成器，是一款在线微信聊天对话制作的工具，可以添加不同用户角色进行对话，支持发送文字、语音、图片、红包、转账等
+在线微信对话生成器，是一款在线微信聊天对话制作的工具，可以添加不同用户角色进行对话，支持发送文字、语音、图片、红包、转账等  
 用来装逼 OR 制作抖音幽默段子还是不错的，可谓是一款娱乐制作神器
-```
 
 ------------------------------------------------------------------------
 </div>
