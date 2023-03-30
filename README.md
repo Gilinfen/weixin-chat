@@ -6,6 +6,8 @@
 
 [![star](https://gitee.com/lifeixue/weixin-chat/badge/star.svg)](https://gitee.com/lifeixue/weixin-chat)  [![fork](https://gitee.com/lifeixue/weixin-chat/badge/fork.svg)](https://gitee.com/lifeixue/weixin-chat)  [![](https://img.shields.io/badge/微信：-tmall12-red)]()
 
+>这是引用的内容
+
 ```shell
 注意：此版本为基础版，高级版暂不对外开放
 ```
