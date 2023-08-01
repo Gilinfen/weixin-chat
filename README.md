@@ -31,7 +31,7 @@
 ![img](./img/demo.gif)  
 ![img](./img/demo.png)
 
-<h1 align="center">高级版（电脑端，收费）</h1>
+<h1 align="center">高级版（电脑端）</h1>
 
 ## 功能更强大，界面更简洁，使用更简单
 
